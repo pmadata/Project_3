@@ -1,6 +1,9 @@
   ## Project 3
   
-This project involves in-depth analyzing flight data to derive insights into various aspects such as popular routes, busiest airports, top airlines, and more. The dataset, stored in an SQLite database, contains information about flights, including details like airline names, routes, cities, and flight counts.
+This project involves an in-depth analysis of flights coming out of Australia from the most popular airports. This tool can be used by travelers and the aviation industry to gain insights into various aspects such as:
+
+###
+popular routes, busiest airports, top airlines, and more. The dataset, stored in an SQLite database, contains information about flights, including details like airline names, routes, cities, and flight counts.
 
 This interactive sunburst chart provides a dynamic representation of airline routes, allowing users to visually explore and understand the distribution of total flights across different airlines and their respective routes. 
 Hover over different segments of the sunburst to view specific information about airlines and their respective routes.
