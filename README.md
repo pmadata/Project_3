@@ -4,6 +4,8 @@ This project involves an in-depth analysis of flights coming out of Australia fr
 
 Data Source - .CSV file: https://www.kaggle.com/datasets/pandeyg0811/australian-flight-dataset-2003-2022
 
+Presentation Deck : https://docs.google.com/presentation/d/1Q7hEIeMO3RyBboSzN1zpecjcRga_2AGq9CsqxfRdmHc/edit#slide=id.g2b225874ef8_4_20
+
 ### Ethical considerations:
 The data used is available in an open platform with open-access. During the development of this code, assistance from an artificial intelligence platform such as Anaconda Assistance has been used. 
 the original data used by Author of "australian-flight-dataset-2003-2022" falls under the specifications: 
