@@ -36,6 +36,7 @@ Understanding the Chart:
 The color intensity represents the total number of flights for each segment.
 Use the legend to identify different airlines.
 Navigate through the hierarchy by clicking on the chart to explore individual routes within airlines.
+![image](https://github.com/sookie22/Project_3/blob/main/Visualizations/Airline%20Routes.png?raw=true)
 #### 5) Average Maximum Seat in Flights Across Australian Cities - Developer Shenae
 ![image](https://github.com/sookie22/Project_3/assets/143486132/9065cfa2-bfa9-419a-8b02-1ea2ca910670)
 #### 6) Heatmap of busiest airports - Developer Sookie
