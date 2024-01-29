@@ -9,7 +9,6 @@ Presentation Deck : https://docs.google.com/presentation/d/1Q7hEIeMO3RyBboSzN1zp
 ### Ethical considerations:
 The data used is available in an open platform with open-access. During the development of this code, assistance from an artificial intelligence platform such as Anaconda Assistance has been used. 
 the original data used by Author of "australian-flight-dataset-2003-2022" falls under the specifications: 
-- Provenance:
 - Sources:
 The data is collected from https://www.data.gov.au/.
 - Collection Methodology
@@ -41,7 +40,7 @@ Navigate through the hierarchy by clicking on the chart to explore individual ro
 ![image](https://github.com/sookie22/Project_3/assets/143486132/9065cfa2-bfa9-419a-8b02-1ea2ca910670)
 #### 6) Heatmap of busiest airports - Developer Sookie
 ![image](https://github.com/sookie22/Project_3/assets/143486132/c264857a-941b-4c0c-bd2e-e62a398661dd)
-This interactive map provides a visual overview of Australia and its key airports to easily identify the airport that has the highest number of flights during the period observed. 
+This Heatmap was created centered around Australia for better visualisation. Users can to zoom in for a detailed view and zoom out for an overall perspective. The color density on the Heatmap corresponds to the volume of flights departing from different Australian airports.
 #### 7) Top routes filtered by Airways - Developer Sookie
 ![image](https://github.com/sookie22/Project_3/assets/143486132/177115f2-bfea-482a-acaf-5699ac9b4007)
 This interactive bar chart will allow you to select the Airline and identify the top 5 routes based on total flights.  
