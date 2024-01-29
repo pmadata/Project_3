@@ -43,10 +43,7 @@ This interactive map provides a visual overview of Australia and its key airport
 #### 7) Top routes filtered by Airways - Developer Sookie
 ![image](https://github.com/sookie22/Project_3/assets/143486132/177115f2-bfea-482a-acaf-5699ac9b4007)
 This interactive bar chart will allow you to select the Airline and identify the top 5 routes based on total flights.  
-#### 8) Heatmap of Popular Destinations - Developer Sookie
-![image](https://github.com/sookie22/Project_3/assets/143486132/2967918f-a4ba-4c00-8f82-1d073fe2cac3)
-This interactive map will provide an overview of the most popular destinations as a heat map, with the red areas the ones with the highest number of flights. 
-#### 9)Top Airlines based on the amount of Flights - Developer Swapna
+#### 8)Top Airlines based on the amount of Flights - Developer Swapna
 this interactive map allows you to select the Australian City that you would like to start the route, the international city of preferred destination and the preferred airline. As a result, it will provide you the total number of flights and provide you a visualisation of the route on the map.
 ![image](https://github.com/sookie22/Project_3/assets/143486132/2b90aa83-34a6-4e94-9f23-057a99170c91)
 
